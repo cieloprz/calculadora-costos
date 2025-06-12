@@ -1,0 +1,202 @@
+[
+  {
+    "nombre": "Escherichia coli O157:H7 str. 2011EL-2114 (E. coli)",
+    "tamaño_genoma": 156618
+  },
+  {
+    "nombre": "Porphyromonas cangingivalis JCM 15983 (CFB group bacteria)",
+    "tamaño_genoma": 103245
+  },
+  {
+    "nombre": "Escherichia coli O111:NM str. 08-4487 (E. coli)",
+    "tamaño_genoma": 90171
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. 2011EL-2099 (E. coli)",
+    "tamaño_genoma": 146400
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. K1793 (E. coli)",
+    "tamaño_genoma": 141192
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. K1927 (E. coli)",
+    "tamaño_genoma": 119254
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. K2188 (E. coli)",
+    "tamaño_genoma": 122639
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. K2191 (E. coli)",
+    "tamaño_genoma": 132846
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. K2581 (E. coli)",
+    "tamaño_genoma": 143362
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. K4396 (E. coli)",
+    "tamaño_genoma": 129445
+  },
+  {
+    "nombre": "Ooceraea biroi (clonal raider ant)",
+    "tamaño_genoma": 34211
+  },
+  {
+    "nombre": "Escherichia coli O39:NM str. F8704-2 (E. coli)",
+    "tamaño_genoma": 97758
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. K7140 (E. coli)",
+    "tamaño_genoma": 144812
+  },
+  {
+    "nombre": "Escherichia coli O104:H21 str. 94-3025 (E. coli)",
+    "tamaño_genoma": 261207
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. 2011EL-2313 (E. coli)",
+    "tamaño_genoma": 142494
+  },
+  {
+    "nombre": "Escherichia coli O121:H19 str. 2009C-4750 (E. coli)",
+    "tamaño_genoma": 122243
+  },
+  {
+    "nombre": "Escherichia coli O45:H2 str. 2009C-4780 (E. coli)",
+    "tamaño_genoma": 149142
+  },
+  {
+    "nombre": "Escherichia coli O121:H19 str. 2009EL1302 (E. coli)",
+    "tamaño_genoma": 122218
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. 2009EL1449 (E. coli)",
+    "tamaño_genoma": 127698
+  },
+  {
+    "nombre": "Escherichia coli O69:H11 str. 2009C-3601 (E. coli)",
+    "tamaño_genoma": 91991
+  },
+  {
+    "nombre": "Escherichia coli O91:NM str. 2009C-3745 (E. coli)",
+    "tamaño_genoma": 127439
+  },
+  {
+    "nombre": "Escherichia coli O123:H11 str. 2009C-3307 (E. coli)",
+    "tamaño_genoma": 63784
+  },
+  {
+    "nombre": "Escherichia coli O145:H28 str. 2009C-3292 (E. coli)",
+    "tamaño_genoma": 222601
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. K5852 (E. coli)",
+    "tamaño_genoma": 215683
+  },
+  {
+    "nombre": "Escherichia coli O157:H7 str. K6687 (E. coli)",
+    "tamaño_genoma": 143670
+  },
+  {
+    "nombre": "Escherichia coli O111:NM str. K6895 (E. coli)",
+    "tamaño_genoma": 92117
+  },
+  {
+    "nombre": "Escherichia coli O111:NM str. K6897 (E. coli)",
+    "tamaño_genoma": 91930
+  },
+  {
+    "nombre": "Pseudomonas sp. URHB0015 (g-proteobacteria)",
+    "tamaño_genoma": 365893
+  },
+  {
+    "nombre": "Staphylococcus sp. URHA0057 (firmicutes)",
+    "tamaño_genoma": 272370
+  },
+  {
+    "nombre": "Pseudomonas umsongensis UNC430CL58Col (g-proteobacteria)",
+    "tamaño_genoma": 426747
+  },
+  {
+    "nombre": "Desulfitibacter alkalitolerans DSM 16504 (firmicutes)",
+    "tamaño_genoma": 193505
+  },
+  {
+    "nombre": "Salinispora tropica CNY012 (high G+C Gram-positive bacteria)",
+    "tamaño_genoma": 172748
+  },
+  {
+    "nombre": "Salinispora tropica CNT250 (high G+C Gram-positive bacteria)",
+    "tamaño_genoma": 164734
+  },
+  {
+    "nombre": "Pseudomonas sp. URMO17WK12:I8 (g-proteobacteria)",
+    "tamaño_genoma": 212696
+  },
+  {
+    "nombre": "Arthrobacter sp. 9MFCol3.1 (high G+C Gram-positive bacteria)",
+    "tamaño_genoma": 305640
+  },
+  {
+    "nombre": "Nitrosomonas cryotolerans ATCC 49181 (b-proteobacteria)",
+    "tamaño_genoma": 53445
+  },
+  {
+    "nombre": "Sphingomonas sp. URHD0057 (a-proteobacteria)",
+    "tamaño_genoma": 516857
+  },
+  {
+    "nombre": "Dongia sp. URHE0060 (a-proteobacteria)",
+    "tamaño_genoma": 420268
+  },
+  {
+    "nombre": "Nocardioides sp. URHA0020 (high G+C Gram-positive bacteria)",
+    "tamaño_genoma": 232705
+  },
+  {
+    "nombre": "Acidobacteriaceae bacterium URHE0068 (bacteria)",
+    "tamaño_genoma": 189812
+  },
+  {
+    "nombre": "Pseudoalteromonas sp. 6BO_GOM-1096m (g-proteobacteria)",
+    "tamaño_genoma": 288705
+  },
+  {
+    "nombre": "Desulfovermiculus halophilus DSM 18834 (bacteria)",
+    "tamaño_genoma": 97131
+  },
+  {
+    "nombre": "Pseudonocardia acaciae DSM 45401 (high G+C Gram-positive bacteria)",
+    "tamaño_genoma": 432133
+  },
+  {
+    "nombre": "Exiguobacterium undae DSM 14481 (firmicutes)",
+    "tamaño_genoma": 1002351
+  },
+  {
+    "nombre": "Exiguobacterium undae 190-11 (firmicutes)",
+    "tamaño_genoma": 1643017
+  },
+  {
+    "nombre": "Exiguobacterium marinum DSM 16307 (firmicutes)",
+    "tamaño_genoma": 2258210
+  },
+  {
+    "nombre": "Exiguobacterium sibiricum 7-3 (firmicutes)",
+    "tamaño_genoma": 2318808
+  },
+  {
+    "nombre": "Listeria monocytogenes Lm25180 (firmicutes)",
+    "tamaño_genoma": 1504391
+  },
+  {
+    "nombre": "Listeria monocytogenes Lm21045 (firmicutes)",
+    "tamaño_genoma": 410685
+  },
+  {
+    "nombre": "Mannheimia granulomatis DSM 19156 (g-proteobacteria)",
+    "tamaño_genoma": 559125
+  }
+]
